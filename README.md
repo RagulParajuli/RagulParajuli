@@ -9,14 +9,7 @@ Student at KPR Institute of Engineering and Technology
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragul-parajuli/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: see more...
-
-[ ](# "### You can also connect me with
-<p align="left">
-/<a href="https://www.facebook.com/rahulparajuli452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulparajuli452" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_ragul_7.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ragul_7.7" height="30" width="40" /></a>")
-
-
-
+- 
 ### I code in 
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
