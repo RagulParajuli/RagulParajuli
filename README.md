@@ -11,7 +11,7 @@ Student at KPR Institute of Engineering and Technology
 - ⚡ Fun fact: see more...
 
   <h3 align="left"> You can also connect with me:</h3>
-<p align="left">
+<p align="center">
 
 <a href="https://www.facebook.com/rahulparajuli452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulparajuli452" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_ragul_7.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ragul_7.7" height="30" width="40" /></a>
