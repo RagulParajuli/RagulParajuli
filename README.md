@@ -1,4 +1,5 @@
-####       Hi there 👋 It's me Ragul
+<h1 align="center">Hi 👋, I'm Ragul Parajuli</h1>
+<h3 align="center">Android app developer form Nepal</h3>
 
 Student at KPR Institute of Engineering and Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
