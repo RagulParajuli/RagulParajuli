@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ragul Parajuli</h1>
 <h3 align="center">Android app developer form Nepal</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunaket&label=Profile%20views&color=0e75b6&style=flat" alt="karunaket" /> </p>
--  Student at KPR Institute of Engineering and Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RagulParajuli&label=Profile%20views&color=0e75b6&style=flat" alt="RagulParajuli" /> </p>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+-  Student at KPR Institute of Engineering and Technology                                               
 - 🌱 I’m currently learning Android App Development and DSA
 - 👯 I’m looking to collaborate on App Development projects
 - 💬 Ask me about App Development, Android Studio, Java, Kotlin, C, Python  
